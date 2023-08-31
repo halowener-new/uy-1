@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://halowener-new.github.io/uy-1/sitemap.xml
